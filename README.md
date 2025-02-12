@@ -6,10 +6,10 @@ This project focuses on leveraging machine learning techniques to classify breas
 
 ## 🛶 Features
 
-✅ Data preprocessing & visualization
-✅ Feature scaling & correlation analysis
-✅ Multiple ML models for classification
-✅ Performance evaluation using accuracy, confusion matrix & classification report
+- Data preprocessing & visualization
+- Feature scaling & correlation analysis
+- Multiple ML models for classification
+- Performance evaluation using accuracy, confusion matrix & classification report
 
 ## 🛠 Technological Used
 
@@ -28,12 +28,12 @@ This project focuses on leveraging machine learning techniques to classify breas
 
 | Model | Accuracy | Key Insights
 --------|----------|--------------|
-| Logistic Regression |---------| 95% |---------------| Relaible & interpretable minimal false positives |
-| KNN |-----| 95% |----------| Sensitive to neigbour selection, competitive results |
-| SVM |-----| 95% |----------| Best performer, excellent class separation |
-| Decision Tree |-------| 88% |-----------| Prone to overfitting , lower accuracy |
+| Logistic Regression | 95% | Relaible & interpretable minimal false positives |
+| KNN | 95% | Sensitive to neigbour selection, competitive results |
+| SVM | 95% | Best performer, excellent class separation |
+| Decision Tree | 88% | Prone to overfitting , lower accuracy |
 
-## 📜 Conclusion
+## 📜 Conclusion 
 
 - Logistic Regression (96%): Performed well with high accuracy and minimal false positives, making it a reliable choice for interpretability.
 - K-Nearest Neighbors (95%): Showed competitive performance but is sensitive to the choice of neighbors, which may affect predictions.
