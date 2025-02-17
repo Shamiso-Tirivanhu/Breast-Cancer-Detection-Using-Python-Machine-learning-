@@ -1,30 +1,37 @@
-# 🩺 Breast-Cancer-Detection using Python & Machine Learning-project
+#  Breast-Cancer-Detection using Python & Machine Learning-project
 
-## 📌 Overview
+Table of Content
+1. [Overview](#overview)
+2. [Features](#features)
+3. [Technological Uses](#technologuical-uses)
+4. [Results](#ewsults)
+5. [Conclusion](#conclusion)
+
+## 1. Overview
 
 This project focuses on leveraging machine learning techniques to classify breast cancer cases as malignant or benign based on medical data. The goal is to provide a reliable and efficient way to assist in early diagnosis using Logistic Regression, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), and Decision Trees.
 
-## 🛶 Features
+## 2. Features
 
 - Data preprocessing & visualization
 - Feature scaling & correlation analysis
 - Multiple ML models for classification
 - Performance evaluation using accuracy, confusion matrix & classification report
 
-## 🛠 Technological Used
+## 3. Technological Used
 
 - Python
 - Pandas & Numpy for Data Manipulation
 - Matplotlib & Seaborn for Data visualization
 - Sckit-Learn for Machine Learning algirthms 
 
-## 📁 Usage
+## 3. Usage
 
 1. Koad the dataset Breast_cancer_csv
 2. Preprocessing and Data Visualization
 3. Train models and evaluate their performance
 
-## 📊 Results
+## 4. Results
 
 | Model | Accuracy | Key Insights
 --------|----------|--------------|
@@ -33,7 +40,7 @@ This project focuses on leveraging machine learning techniques to classify breas
 | SVM | 95% | Best performer, excellent class separation |
 | Decision Tree | 88% | Prone to overfitting , lower accuracy |
 
-## 📜 Conclusion 
+## 5. Conclusion 
 
 - Logistic Regression (96%): Performed well with high accuracy and minimal false positives, making it a reliable choice for interpretability.
 - K-Nearest Neighbors (95%): Showed competitive performance but is sensitive to the choice of neighbors, which may affect predictions.
