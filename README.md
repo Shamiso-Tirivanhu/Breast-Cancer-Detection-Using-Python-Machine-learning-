@@ -15,7 +15,7 @@ This project focuses on leveraging machine learning techniques to classify breas
 ![Image_Alt](https://github.com/Shamiso-Tirivanhu/Breast-Cancer-Detection-project/blob/f89a56ab7cb87f7f54ca437e666aaf0cd4b05a91/A%20diagram%20of%20benign%20and%20malignant%20cells.png)
 
 
-The image above illustrates that not a lot of people have malignanet aka cancerous cells. It does not necessarily mena that these indiviuals will die of cancer, it simply depicts that they hace it.
+The image above illustrates a couple of people have malignant aka cancerous cells compared to those with benign aka non-cancerous cells. It does not necessarily mena that these indiviuals will die of cancer, it simply depicts that they hace it.
 
 
 
