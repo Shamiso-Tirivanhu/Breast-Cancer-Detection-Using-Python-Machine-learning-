@@ -46,8 +46,10 @@ The image above illustrates a couple of people have malignant aka cancerous cell
 --------|----------|--------------|
 | Logistic Regression | 95% | Relaible & interpretable minimal false positives |
 | KNN | 95% | Sensitive to neigbour selection, competitive results |
-| SVM | 95% | Best performer, excellent class separation |
+| SVM | 97% | Best performer, excellent class separation |
 | Decision Tree | 88% | Prone to overfitting , lower accuracy |
+
+Based on the table above, SVM  wou;d be the best algorithm to use as it has a 97% accuracy score.
 
 ## 5. Conclusion 
 
