@@ -9,7 +9,16 @@ Table of Content
 
 ## 1. Overview
 
-This project focuses on leveraging machine learning techniques to classify breast cancer cases as malignant or benign based on medical data. The goal is to provide a reliable and efficient way to assist in early diagnosis using Logistic Regression, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), and Decision Trees.
+This project focuses on leveraging machine learning techniques to classify breast cancer cases as malignant or benign based on medical data as shown in the image below. The goal is to provide a reliable and efficient way to assist in early diagnosis using Logistic Regression, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), and Decision Trees.
+
+
+![Image_Alt](https://github.com/Shamiso-Tirivanhu/Breast-Cancer-Detection-project/blob/f89a56ab7cb87f7f54ca437e666aaf0cd4b05a91/A%20diagram%20of%20benign%20and%20malignant%20cells.png)
+
+
+The image above illustrates that not a lot of people have malignanet aka cancerous cells. It does not necessarily mena that these indiviuals will die of cancer, it simply depicts that they hace it.
+
+
+
 
 ## 2. Features
 
@@ -49,6 +58,6 @@ This project focuses on leveraging machine learning techniques to classify breas
 
 - Among all models, SVM proved to be the most effective, achieving the highest accuracy at 97%. However, further improvements can be explored using ensemble methods or deep learning techniques for even better performance.
 
-💡 Check out the code and feel free to contribute 🛶
+Check out the code and feel free to contribute 
 
 
